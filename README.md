@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 # TaunahiTaunahi - Next Generation Skyblock Scripts
 
 **Stop overpaying for bad scripts - get Taunahi.**
-## GUI Showcase
-![](https://cdn.discordapp.com/attachments/980212612153368607/1201110819115630652/ezgif-1-9fb60872ea.gif?ex=65c8a09e&is=65b62b9e&hm=f6906b2099dd30c8f31aa96b5b916ebd32c5fe4b3dee88135de46bc90d68f30a&)
 ## 🌾 Farming
 All the fully automatic scripts that will level up your farming skill and earn you coins. Supports a high amount of both basic and advanced farm designs.
 
